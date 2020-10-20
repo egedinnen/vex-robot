@@ -8,6 +8,7 @@ extern motor LeftMotor;
 extern controller Controller1;
 extern motor ArmMotor;
 extern motor ClawMotor;
+extern motor AnkleMotor;
 
 /**
  * Used to initialize code/tasks/devices added using tools in VEXcode Pro.
