@@ -1,3 +1,190 @@
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// RightMotor           motor         6               
+// LeftMotor            motor         7               
+// Controller1          controller                    
+// OrangeMotor          motor         10              
+// IntakeLeftMotor      motor         2               
+// IntakeRightMotor     motor         3               
+// IntakeMiddleLMotor   motor         1               
+// IntakeMiddleRMotor   motor         4               
+// Vision               vision        8               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// RightMotor           motor         6               
+// LeftMotor            motor         7               
+// Controller1          controller                    
+// OrangeMotor          motor         10              
+// IntakeLeftMotor      motor         2               
+// IntakeRightMotor     motor         3               
+// IntakeMiddleLMotor   motor         1               
+// IntakeMiddleRMotor   motor         4               
+// Vision               vision        8               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// RightMotor           motor         6               
+// LeftMotor            motor         7               
+// Controller1          controller                    
+// OrangeMotor          motor         10              
+// IntakeLeftMotor      motor         2               
+// IntakeRightMotor     motor         3               
+// IntakeMiddleLMotor   motor         1               
+// IntakeMiddleRMotor   motor         4               
+// Vision               vision        8               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// RightMotor           motor         6               
+// LeftMotor            motor         7               
+// Controller1          controller                    
+// OrangeMotor          motor         10              
+// IntakeLeftMotor      motor         2               
+// IntakeRightMotor     motor         3               
+// IntakeMiddleLMotor   motor         1               
+// IntakeMiddleRMotor   motor         4               
+// Vision               vision        8               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// RightMotor           motor         6               
+// LeftMotor            motor         7               
+// Controller1          controller                    
+// OrangeMotor          motor         10              
+// IntakeLeftMotor      motor         2               
+// IntakeRightMotor     motor         3               
+// IntakeMiddleLMotor   motor         1               
+// IntakeMiddleRMotor   motor         4               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// RightMotor           motor         6               
+// LeftMotor            motor         7               
+// Controller1          controller                    
+// OrangeMotor          motor         10              
+// IntakeLeftMotor      motor         2               
+// IntakeRightMotor     motor         3               
+// IntakeMiddleLMotor   motor         1               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// RightMotor           motor         6               
+// LeftMotor            motor         7               
+// Controller1          controller                    
+// OrangeMotor          motor         10              
+// IntakeLeftMotor      motor         2               
+// IntakeRightMotor     motor         3               
+// IntakeMiddleMotor    motor         1               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// RightMotor           motor         6               
+// LeftMotor            motor         7               
+// Controller1          controller                    
+// orangeMotor          motor         10              
+// IntakeLeftMotor      motor         2               
+// IntakeRightMotor     motor         3               
+// IntakeMiddleMotor    motor         1               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// RightMotor           motor         6               
+// LeftMotor            motor         7               
+// Controller1          controller                    
+// orangeMotor          motor         10              
+// IntakeLeftMotor      motor         2               
+// IntakeRightMotor     motor         3               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// RightMotor           motor         6               
+// LeftMotor            motor         7               
+// Controller1          controller                    
+// orangeMotor          motor         10              
+// ClawMotor            motor         2               
+// IntakeRightMotor     motor         3               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// RightMotor           motor         6               
+// LeftMotor            motor         7               
+// Controller1          controller                    
+// orangeMotor          motor         10              
+// ClawMotor            motor         19              
+// IntakeRightMotor     motor         3               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// RightMotor           motor         6               
+// LeftMotor            motor         7               
+// Controller1          controller                    
+// orangeMotor          motor         10              
+// ClawMotor            motor         19              
+// AnkleMotor           motor         21              
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// RightMotor           motor         6               
+// LeftMotor            motor         7               
+// Controller1          controller                    
+// orangeMotor          motor         3               
+// ClawMotor            motor         19              
+// AnkleMotor           motor         21              
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// RightMotor           motor         6               
+// LeftMotor            motor         1               
+// Controller1          controller                    
+// orangeMotor          motor         3               
+// ClawMotor            motor         19              
+// AnkleMotor           motor         21              
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// RightMotor           motor         6               
+// LeftMotor            motor         1               
+// Controller1          controller                    
+// orangeMotor          motor         3               
+// ClawMotor            motor         19              
+// AnkleMotor           motor         8               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// RightMotor           motor         6               
+// LeftMotor            motor         1               
+// Controller1          controller                    
+// orangeMotor          motor         3               
+// ClawMotor            motor         7               
+// AnkleMotor           motor         8               
+// ---- END VEXCODE CONFIGURED DEVICES ----
+// ---- START VEXCODE CONFIGURED DEVICES ----
+// Robot Configuration:
+// [Name]               [Type]        [Port(s)]
+// RightMotor           motor         10              
+// LeftMotor            motor         1               
+// Controller1          controller                    
+// orangeMotor          motor         3               
+// ClawMotor            motor         7               
+// AnkleMotor           motor         8               
+// ---- END VEXCODE CONFIGURED DEVICES ----
 /*----------------------------------------------------------------------------*/
 /*                                                                            */
 /*    Module:       main.cpp                                                  */
@@ -41,19 +228,27 @@ competition Competition;
 void pre_auton(void) {
   // Initializing Robot Configuration. DO NOT REMOVE!
   vexcodeInit();
-  Brain.Timer.reset();
+  IntakeRightMotor.setPosition(0, degrees);
+  IntakeLeftMotor.setPosition(0, degrees);
+  OrangeMotor.setPosition(0, degrees);
+  IntakeMiddleLMotor.setPosition(0, degrees);
+  IntakeMiddleRMotor.setPosition(0, degrees);
+
   // All activities that occur before the competition starts
   // Example: clearing encoders, setting servo positions, ...
 }
 
-//Ayarlar
-double distkP = 2;//Oranın ayarlama katsayısı
-double distkI = 0.001;//integral ayarlama katsayısı
-double distkD = 5;//türev ayarlama katsayısı
+//Takım Rengi
+bool teamColor = 1; //1 is blue, 0 is red
 
-double diffkP = 0.1;//Oranın ayarlama katsayısı
-double diffkI = 0.005;//integral ayarlama katsayısı
-double diffkD = 0.05;//türev ayarlama katsayısı
+//Ayarlar
+double distkP = 0.2;//Oranın ayarlama katsayısı
+double distkI = 0.005;//integral ayarlama katsayısı
+double distkD = 0.1;//türev ayarlama katsayısı
+
+double diffkP = 0.2;//Oranın ayarlama katsayısı
+double diffkI = 0.15;//integral ayarlama katsayısı
+double diffkD = 0.1;//türev ayarlama katsayısı
 
 double driveTarget;
 double distSpeed;
@@ -153,8 +348,8 @@ void driveStraight(int distance) // cm
 
 
 void autonomous(void) {
+
   driveStraight(100);
-  
 }
 
 /*---------------------------------------------------------------------------*/
@@ -182,51 +377,61 @@ void usercontrol(void) {
     
     LeftMotor.spin(forward, forwardVolts + turnVolts, voltageUnits::volt);
     RightMotor.spin(forward, forwardVolts - turnVolts, voltageUnits::volt);
-
-    wait(20, msec); // Sleep the task for a short amount of time to
-                    // prevent wasted resources.
-    //Arm Control
+    
+    //INTAKE BUTTON SETTINGS
   bool topLeftButton = Controller1.ButtonL1.pressing();
   bool bottomLeftButton = Controller1.ButtonL2.pressing();
-
-  if (bottomLeftButton){
-    ArmMotor.spin(forward, 6.0, voltageUnits::volt);
-  }
-  else if (topLeftButton){
-    ArmMotor.spin(forward, -6.0, voltageUnits::volt);
-  }else {
-    ArmMotor.spin(forward, 0.0, voltageUnits::volt);
-  }
-
-  //Claw Control
-  bool xButton = Controller1.ButtonX.pressing();
-  bool bButton = Controller1.ButtonB.pressing();
-  
-
-  if (xButton){
-    ClawMotor.spin(forward, 4.0, voltageUnits::volt);
-  }
-  else if (bButton){
-    ClawMotor.spin(forward, -4.0, voltageUnits::volt);
-  }else {
-    ClawMotor.spin(forward, 0.0, voltageUnits::volt);
-  }
-
-  //Ankle Control
   bool topRightButton = Controller1.ButtonR1.pressing();
   bool bottomRightButton = Controller1.ButtonR2.pressing();
+  
+  //LOWER INTAKE
 
-  if (bottomRightButton){
-    AnkleMotor.spin(forward, 6.0, voltageUnits::volt);
+  if (topRightButton){
+    IntakeLeftMotor.spin(forward, -12.0, voltageUnits::volt);
+    IntakeRightMotor.spin(forward, 12.0, voltageUnits::volt);
   }
-  else if (topRightButton){
-    AnkleMotor.spin(forward, -6.0, voltageUnits::volt);
+  else if (bottomRightButton){
+    IntakeLeftMotor.spin(forward, 12.0, voltageUnits::volt);
+    IntakeRightMotor.spin(forward, -12.0, voltageUnits::volt);
   }else {
-    AnkleMotor.spin(forward, 0.0, voltageUnits::volt);
+    IntakeLeftMotor.spin(forward, 0.0, voltageUnits::volt);
+    IntakeRightMotor.spin(forward, 0.0, voltageUnits::volt);
+  }
+
+  //UPPER INTAKE
+
+  if (topLeftButton){
+    IntakeMiddleLMotor.spin(forward, 12.0, voltageUnits::volt);
+    IntakeMiddleRMotor.spin(forward, -12.0, voltageUnits::volt);
+  }
+  else if (bottomLeftButton){
+    IntakeMiddleLMotor.spin(forward, -12.0, voltageUnits::volt);
+    IntakeMiddleRMotor.spin(forward, 12.0, voltageUnits::volt);
+  }else {
+    IntakeMiddleLMotor.spin(forward, 0.0, voltageUnits::volt);
+    IntakeMiddleRMotor.spin(forward, 0.0, voltageUnits::volt);
+  }
+
+  if(teamColor == true){
+    Vision.takeSnapshot(Vision__RED_BALL);
+      if(Vision.objects[0].exists){
+      OrangeMotor.spin(forward, 12.0, voltageUnits::volt);
+    }else{
+      OrangeMotor.spin(forward, -12.0, voltageUnits::volt);
+    }
+  }
+  if(teamColor == false){
+    OrangeMotor.spin(forward, -12.0, voltageUnits::volt);
+    if(Vision.objects[0].exists){
+      OrangeMotor.spin(forward, 12.0, voltageUnits::volt);
+    } else if(Vision.objects[1].exists){
+      OrangeMotor.spin(forward, -12.0, voltageUnits::volt);
+    }
+  }
+wait(20, msec); // Sleep the task for a short amount of time to
+                    // prevent wasted resources.
   }
 }
-  }
-
   
   
 //
@@ -240,6 +445,9 @@ int main() {
   // Run the pre-autonomous function.
   pre_auton();
 
+  Brain.Timer.reset();
+    Vision.takeSnapshot(Vision__RED_BALL);
+    Brain.Screen.printAt( 10, 50, "Object %6.2f", Vision.objects[0].exists);
   // Prevent main from exiting with an infinite loop.
   while (true) {
     wait(100, msec);
